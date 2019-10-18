@@ -29,11 +29,11 @@ client:
   url:
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how Titan Real Estate Team can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
-    CTA_url: /contact/
+  - CTA_image_path: /img/cta-images/003.jpg
+    CTA_title: "Real Estate Brain: 7 Hacks for Buying Like a Pro"
+    CTA_text: "This book will break down 7 strategies to help you buy real estate like a pro!"
+    CTA_link_text: "Get Your Copy"
+    CTA_url: https://www.amazon.com/Real-Estate-Brain-Hacks-Buying-ebook/dp/B07Q5BBNL7/ref=sr_1_1
 
 # second_sidebar_CTA:
 #   - CTA_image_path2: /img/cta-images/002.jpg
