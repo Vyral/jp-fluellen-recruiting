@@ -18,6 +18,8 @@ youtube_code: 9sJk-f3DzFY
 
 {% include youtube.html %}
 
+If you’re a new agent who’s starved for leads, your best bet is to use Facebook.&nbsp;
+
 So you’ve got your license, your brand-new office, and it’s time to get down to business. How do you get leads as a new agent?&nbsp;
 
 **The quickest way is to go on Facebook.** Do this with intentionality and use the 369 method. In other words, like nine posts, comment on six of them, and privately message three people. Do this every day, and you’ll get deals.&nbsp;
