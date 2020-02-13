@@ -18,7 +18,7 @@ youtube_code: 9sJk-f3DzFY
 
 {% include youtube.html %}
 
-*If you’re a new agent who’s starved for leads, your best bet is to use Facebook.*
+<p style="text-align: center;"><em>If you’re a new agent who’s starved for leads, your best bet is to use Facebook.</em></p>
 
 So you’ve got your license, your brand-new office, and it’s time to get down to business. How do you get leads as a new agent?&nbsp;
 
