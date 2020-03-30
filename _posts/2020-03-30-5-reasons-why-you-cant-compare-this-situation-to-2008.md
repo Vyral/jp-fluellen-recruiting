@@ -17,7 +17,7 @@ youtube_code: 1PyqNulcFBg
 
 {% include youtube.html %}
 
-Things are uncertain right now, but what’s certain is that the Great Recession and the coronavirus impact are two totally different beasts. Here’s why.&nbsp;
+<p style="text-align: center;"><em>Things are uncertain right now, but what’s certain is that the Great Recession and the coronavirus impact are two totally different beasts. Here’s why.</em></p>
 
 The coronavirus has spurred many 2008 flashbacks, though I believe unncessarily. The truth is, what’s happening now is nothing like what happened to the economy and the real estate market back in 2008. Here are five differences to back that up:&nbsp;
 
