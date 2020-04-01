@@ -19,7 +19,7 @@ youtube_code: 1PyqNulcFBg
 
 <p style="text-align: center;"><em>Things are uncertain right now, but what’s certain is that the Great Recession and the coronavirus impact are two totally different beasts. Here’s why.</em></p>
 
-The coronavirus has spurred many 2008 flashbacks, though I believe unncessarily. The truth is, what’s happening now is nothing like what happened to the economy and the real estate market back in 2008. Here are five differences to back that up:&nbsp;
+The coronavirus has spurred many 2008 flashbacks, though I believe unnecessarily. The truth is, what’s happening now is nothing like what happened to the economy and the real estate market back in 2008. Here are five differences to back that up:&nbsp;
 
 **1. Mortgage standards are still in effect.** Lenders still need you to have a job, they still need you to have income, they still need you to have assets. Unlike in 2008, when subprime mortgages were rampant, no one’s dropping their standards whatsoever. Financial institutions still have money to lend, but they’re not just giving it out to anyone who has a heartbeat.&nbsp;
 **2. Prices are not out of control.** Diligent appraisers have helped us in this regard, as has the fact that loans are being issued way more responsibly.&nbsp;
