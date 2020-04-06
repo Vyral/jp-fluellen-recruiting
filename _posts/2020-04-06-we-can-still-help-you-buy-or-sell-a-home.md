@@ -3,7 +3,7 @@ layout: post
 title: We Can Still Help You Buy or Sell a Home
 date: 2020-04-06 16:20:51
 tags:
-excerpt:
+excerpt: The coronavirus has had a big impact on our economy, but the Titan Real Estate Team is still very much in business!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
