@@ -1,9 +1,11 @@
 ---
 layout: post
 title: We’re Dedicated to Keeping Our Home Sellers Safe
-date: 2020-04-10 19:53:58
+date: 2020-04-10 19:53:00
 tags:
-excerpt:
+excerpt: >-
+  During these uncertain times, I want you to know that we’re taking every
+  precaution necessary to keep our clients safe.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
