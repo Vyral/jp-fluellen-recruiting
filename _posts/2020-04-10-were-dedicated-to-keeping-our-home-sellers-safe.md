@@ -4,8 +4,9 @@ title: We’re Dedicated to Keeping Our Home Sellers Safe
 date: 2020-04-10 19:53:00
 tags:
 excerpt: >-
-  During these uncertain times, I want you to know that we’re taking every
-  precaution necessary to keep our clients safe.
+  As our daily lives continue to be affected by the ongoing coronavirus
+  pandemic, I wanted to let you know that we’re taking every precaution to keep
+  homebuyers and sellers safe. Here’s how.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
