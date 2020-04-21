@@ -7,7 +7,7 @@ excerpt: >-
   As many of us shift from working in an office to working at home, I have a
   few tips to share that will help your home office become a solid working
   environment.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/How+to+Work+From+Home+Successfully+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
