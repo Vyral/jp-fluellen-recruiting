@@ -7,7 +7,7 @@ excerpt: >-
   As our daily lives continue to be affected by the ongoing coronavirus
   pandemic, I wanted to let you know that we’re taking every precaution to keep
   homebuyers and sellers safe. Here’s how.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Were+Dedicated+to+Keeping+Our+Home+Sellers+Safe+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
