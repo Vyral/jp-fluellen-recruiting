@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   If you’re a new agent who’s starved for leads, your best bet is to use
   Facebook.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/The+Key+to+Getting+Leads+as+a+New+Agent+(1).mp4
 pullquote: 'Do this every day, and you’ll get deals.'
 enclosure_type: video/mp4
 enclosure_time:
