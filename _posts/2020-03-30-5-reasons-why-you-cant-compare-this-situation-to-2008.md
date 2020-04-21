@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   Things are uncertain right now, but what’s certain is that the Great Recession
   and the coronavirus impact are two totally different beasts. Here’s why.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/5+Reasons+Why+You+Cant+Compare+This+Situation+to+2008+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
