@@ -6,7 +6,7 @@ tags:
 excerpt: >-
   The coronavirus has had a big impact on our economy, but the Titan Real Estate
   Team is still very much in business!
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/We+Can+Still+Help+You+Buy+or+Sell+a+Home+(3).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
