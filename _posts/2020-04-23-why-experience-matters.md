@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Why Experience Matters
-date:
+date: 2020-04-23 16:28:48
 tags:
-  - Real Estate
 excerpt: >-
   How can you find the right company to work with as an agent? The answer is
   experience.
