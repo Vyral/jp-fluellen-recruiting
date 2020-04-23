@@ -17,7 +17,7 @@ youtube_code: gMeyJl8huqY
 
 {% include youtube.html %}
 
-How can you find the right company to work with as an agent? The answer is experience.
+<p style="text-align: center;"><em>How can you find the right company to work with as an agent? The answer is experience.</em></p>
 
 How can you find the right place to work after you get your real estate license? The main thing you need to consider is experience.&nbsp;
 
