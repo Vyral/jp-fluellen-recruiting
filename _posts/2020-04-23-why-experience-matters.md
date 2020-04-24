@@ -21,7 +21,7 @@ youtube_code: gMeyJl8huqY
 
 How can you find the right place to work after you get your real estate license? The main thing you need to consider is experience.&nbsp;
 
-There are a few questions you need to ask yourself when considering a place to work. **Does this team have a lot of experience in the industry?** Not just being in business and having a license, buthas this company performed at a high level? Are your coworkers going to teach you the skills you need to also perform at a high level?&nbsp;
+There are a few questions you need to ask yourself when considering a place to work. **Does this team have a lot of experience in the industry?** Not just being in business and having a license, but has this company performed at a high level? Are your coworkers going to teach you the skills you need to also perform at a high level?&nbsp;
 
 {% include pullquote.html %}
 
