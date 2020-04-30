@@ -17,7 +17,8 @@ youtube_code: QRfC2EpYzrs
 
 {% include youtube.html %}
 
-&nbsp;It’s important to stay focused while sheltering in place during the coronavirus pandemic, and here are five tips that will help.&nbsp;
+<p style="text-align: center;"><em>It’s important to stay focused while sheltering in place during the coronavirus pandemic, and here are five tips that will help.</em></p>
+
 
 If you’re having trouble staying focused while staying at home during the COVID-19 pandemic, here are five tips that will put you back on track:
 
