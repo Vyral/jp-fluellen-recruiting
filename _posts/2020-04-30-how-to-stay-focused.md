@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stay Focused
-date:
+date: 2020-04-30 16:26:38
 tags:
 excerpt: >-
   It’s important to stay focused while sheltering in place during the
