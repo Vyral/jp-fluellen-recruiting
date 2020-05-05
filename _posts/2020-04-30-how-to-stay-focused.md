@@ -28,7 +28,7 @@ If you’re having trouble staying focused while staying at home during the COVI
 
 **3\. Exercise.** Staying at home all the time can get stressful, especially if you have kids with you. It’s important to find a way to relieve that stress. There’s a ton of instructional videos on social media about how to use household items to help aid in your daily exercise.&nbsp;
 
-**4\. Get outside.** It’s been proven that Vitamin D improves your mood, and exposing yourself to sunshine causes your body to produce Vitamin D. PLus, it’s easy to practice social distancing when you’re outside\!
+**4\. Get outside.** It’s been proven that Vitamin D improves your mood, and exposing yourself to sunshine causes your body to produce Vitamin D. Plus, it’s easy to practice social distancing when you’re outside\!
 
 **5\. Get more sleep.** It’s also been proven that getting more sleep is a great way to stay healthy. Everyone’s sleep cycle is different, but a great way to monitor your sleep habits is to check whether you feel refreshed each time you get out of bed in the morning. I’ve been getting more sleep lately, and it feels fantastic. Getting more sleep also helps you keep track of what day it is since these past few weeks have felt like one long weekend day for some.&nbsp;
 
