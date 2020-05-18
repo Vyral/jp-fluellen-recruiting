@@ -20,7 +20,7 @@ youtube_code: DghtkXPY8CE
 
 {% include youtube.html %}
 
-For those who are just starting their real estate careers, there are a few key reasons to consider joining a team like ours.
+<p style="text-align: center;"><em>For those who are just starting their real estate careers, there are a few key reasons to consider joining a team like ours.</em></p>
 
 If you’re thinking about starting your career in real estate, think about this: Do you have enough in reserves to get your real estate business off the ground? For example, how much do you have set aside for bills over the next three to five months? The most successful agents I’ve seen have had a strategy to transition from their old business to their new business and enough in savings to keep them going.
 
