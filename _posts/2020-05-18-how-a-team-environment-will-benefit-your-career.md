@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How a Team Environment Will Benefit Your Career
-date:
+date: 2020-05-18 15:29:57
 tags:
 excerpt: >-
   For those who are just starting their real estate careers, there are a few key
   reasons to consider joining a team like ours.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/How+a+Team+Environment+Will+Benefit+Your+Career.mp4
 pullquote: >-
   The most successful agents I’ve seen have had a strategy to transition from
   their old business to their new business.
@@ -14,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: DghtkXPY8CE
 ---
 
 {% include youtube.html %}
