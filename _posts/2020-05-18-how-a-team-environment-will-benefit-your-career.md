@@ -30,6 +30,6 @@ Also, consider whether you want to enter the industry as a solo agent or if you 
 
 **If you’re someone who wants to get the ball rolling right away and avoid the pitfalls that agents encounter in their early careers, then you’ll want to join a team.** We can get you the training, coaching, and accountability that almost everyone needs to get their business going.
 
-On a team like ours, I can confidently say that you’ll do at least one deal within the first 90 daysif you follow the steps that we provide for you.
+On a team like ours, I can confidently say that you’ll do at least one deal within the first 90 days if you follow the steps that we provide for you.
 
 If you’re interested in transitioning to real estate and would like to work on a team of professionals to help foster your success, don’t hesitate to reach out to the Titan Team. In the meantime, [click here](https://wyomingrealestatecareers.com/join-our-team/) to learn more about what we can offer you as a member of the team.
