@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Who Will Have Your Back in This Business?'
-date:
+date: 2020-05-28 15:13:25
 tags:
 excerpt: >-
   If you’re still on the fence about joining a real estate team, here’s another
