@@ -18,7 +18,8 @@ youtube_code: '-egr0cP01_Y'
 
 {% include youtube.html %}
 
-*If you’re still on the fence about joining a real estate team, here’s another reason to consider doing so.*
+<p style="text-align: center;"><em>
+If you’re still on the fence about joining a real estate team, here’s another reason to consider doing so.</em></p>
 
 There are many reasons you should consider joining a real estate team, but perhaps the biggest one is that you’ll have a group of people rallying behind you—just like on a sports team—and helping you be successful.&nbsp;
 
