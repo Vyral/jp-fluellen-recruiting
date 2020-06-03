@@ -24,6 +24,8 @@ There are many reasons you should consider joining a real estate team, but perha
 
 **A team can keep you motivated and accountable.** If you have a question, or need guidance, we’re here to help you with real-world experience and expertise. Other team members watch out for one another, and lend assistance in the event you’re unable to contact a team leader.&nbsp;
 
+{% include pullquote.html %}
+
 Let’s say you’re brand-new, you haven’t done a deal, and you’re getting frustrated. You always have someone you can just call and pose questions like, “How did you do this?” or “What’s the protocol for this specific situation?” It’s easy to say “Follow the formula and you’ll succeed,” but we know reality is a little more complicated than that.&nbsp;
 
 **We’ll give you the truth, not fluff or endless lip service**. If you have further questions about what joining our real estate team could do for you, click the link or reach out to us by phone or email. We want to see you have a thriving and profitable real estate business.
