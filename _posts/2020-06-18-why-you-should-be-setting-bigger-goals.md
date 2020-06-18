@@ -18,7 +18,7 @@ youtube_code: xMHAzIX4xok
 
 {% include youtube.html %}
 
-Your goals should always be bigger than what you think is realistic. Here’s why.
+ <p style="text-align: center;"><em>Your goals should always be bigger than what you think is realistic. Here’s why.</em></p>
 
 Setting goals is important. So is setting realistic, achievable goals. Today I want to try to change your thinking on this.
 
