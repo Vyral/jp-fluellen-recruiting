@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Join a Real Estate Team?'
-date: 2020-07-06 19:55:15
+date: 2020-05-18 19:55:15
 tags:
 excerpt: Being part of a team means getting support from other experienced agents.
 enclosure:
