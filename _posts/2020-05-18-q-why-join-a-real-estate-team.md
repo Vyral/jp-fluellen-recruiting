@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Join a Real Estate Team?'
-date: 2020-05-18 19:55:15
+date: 2020-05-18 19:55:00
 tags:
 excerpt: Being part of a team means getting support from other experienced agents.
 enclosure:
@@ -10,14 +10,14 @@ pullquote: >-
   several forms of communication.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/why-join-a-team-youtube-2.jpg
 youtube_code: U8Y2km-1I2I
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Being part of a team means getting support from other experienced agents.</em></p>
+*Being part of a team means getting support from other experienced agents.*
 
 Why join a real estate team instead of going solo? Today I’m joined by Christina Castillo, one of our awesome team members, to answer that question.
 
