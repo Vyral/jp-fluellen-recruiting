@@ -17,7 +17,7 @@ youtube_code: _62xmvb9Pmc
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what agent Mariah Tuner had to say about diving into real estate.<em><p>
+<p style="text-align:center;"><em>Here’s what agent Mariah Tuner had to say about diving into real estate.</em></p>
 
 Today I’m joined by agent Mariah Turner to hear her thoughts on the value of teamwork, how she’s adapted so far, and what she wants other agents to know.&nbsp;
 
