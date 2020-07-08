@@ -4,7 +4,7 @@ title: An Agent’s Testimony on the Power of Teams
 date: 2020-07-07 20:38:00
 tags:
 excerpt: Here’s what agent Mariah Tuner had to say about diving into real estate.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+What+Are+the+Benefits+of+Joining+a+Team.mp4
 pullquote: >-
   I think that if I hadn’t joined a team, I probably wouldn’t have stayed in
   real estate.
