@@ -35,13 +35,13 @@ Today I’m joined by agent Mariah Turner to hear her thoughts on the value of t
 
 {% include pullquote.html %}
 
-**You’ve now been with the Titan Real Estate Team for little over a year now. How’s the ride been so far?**
+**You’ve been with the Titan Real Estate Team for a little over a year now. How’s the ride been so far?**
 
 *It’s actually been pretty good. I’ve been pretty successful. I didn’t think I’d be here in my first year; I think that if I hadn’t joined a team, I probably wouldn’t have stayed in real estate. Being perfectly honest, it’s very up and down and there’s a lot to learn, but it’s a great job\! I love it. I’m glad I’ve had the team to help me through this year. I have my own leads too, but it’s nice that the team helps you out with leads.&nbsp;*
 
 **Any final thoughts about going it alone versus joining a team?&nbsp;**
 
-*Like I said, I personally enjoy the team; I really think it’s for me. You advise us, teach us, and show us how to do things. At a regular solo agent brokerage, you’re on your own; you don’t have someone by your side as you try to figure things out and it can be scary. With most jobs, you go in and get trained, but with real estate, you just sort of jump in and do it. At least you have experienced agents on a team who can help out the brand-new ones and make us feel a little bit better about stuff.&nbsp;*
+*Like I said, I personally enjoy the team; I really think it’s for me. You advise us, teach us, and show us how to do things. At a regular solo agent brokerage, you’re on your own; you don’t have someone by your side as you try to figure things out and it can be scary. With most jobs, you go in and get trained, but with real estate, you just sort of jump in and do it. At least you have experienced agents on a team who can help out the brand-new ones and make us feel a little bit better about everything.&nbsp;*
 
 So, there you have it: One agent’s honest thoughts on how best to deal with the craziness that comes with learning an entire industry. As always, you know you can reach out to me via phone or email if you have questions on how to excel in real estate—especially in our new normal\!
 
