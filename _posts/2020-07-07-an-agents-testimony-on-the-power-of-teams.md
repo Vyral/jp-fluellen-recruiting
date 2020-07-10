@@ -35,7 +35,7 @@ Today I’m joined by agent Mariah Turner to hear her thoughts on the value of t
 
 {% include pullquote.html %}
 
-**You’ve now been with the Titan team for little over a year now. How’s the ride been so far?**
+**You’ve now been with the Titan Real Estate Team for little over a year now. How’s the ride been so far?**
 
 *It’s actually been pretty good. I’ve been pretty successful. I didn’t think I’d be here in my first year; I think that if I hadn’t joined a team, I probably wouldn’t have stayed in real estate. Being perfectly honest, it’s very up and down and there’s a lot to learn, but it’s a great job\! I love it. I’m glad I’ve had the team to help me through this year. I have my own leads too, but it’s nice that the team helps you out with leads.&nbsp;*
 
