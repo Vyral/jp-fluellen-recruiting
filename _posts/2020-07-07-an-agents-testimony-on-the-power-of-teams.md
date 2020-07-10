@@ -31,7 +31,7 @@ Today I’m joined by agent Mariah Turner to hear her thoughts on the value of t
 
 **When you were searching for somewhere to hang your license, what was your thought process?&nbsp;**
 
-*It was a little nerve-wracking. I talked with a couple of different brokerages around town, just to get a feel for it. Then, one of my classmates recommended joining a team, and I hadn’t heard of a team approach before. I thought it sounded interesting. I had an interview with you, and I thought the team approach sounded a lot better for me instead of going on as a solo to start. As a team, you have a support group with you at all times. You’re not left alone, and you’re able to jump right in. If you need help with anything, they’re always there to help you out or cover your business if you’re out of town. As a solo agent, you just wouldn’t get that.&nbsp;*
+*It was a little nerve-wracking. I talked with a couple of different brokerages around town, just to get a feel for it. Then, one of my classmates recommended joining a team, and I hadn’t heard of a team approach before. I thought it sounded interesting. I had an interview with you, and I thought the team approach sounded a lot better for me instead of starting as a solo agent. As a team, you have a support group with you at all times. You’re not left alone, and you’re able to jump right in. If you need help with anything, they’re always there to help you out or cover your business if you’re out of town. As a solo agent, you just wouldn’t get that.&nbsp;*
 
 {% include pullquote.html %}
 
