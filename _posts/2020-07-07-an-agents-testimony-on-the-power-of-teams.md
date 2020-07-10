@@ -21,7 +21,7 @@ youtube_code: _62xmvb9Pmc
 
 Today I’m joined by agent Mariah Turner to hear her thoughts on the value of teamwork, how she’s adapted so far, and what she wants other agents to know.&nbsp;
 
-**When did you first take interest in real estate?&nbsp;**
+**When did you first take an interest in real estate?&nbsp;**
 
 *I’ve always been interested in real estate. About 12 years ago, I got my license, but then I got pregnant, so that put a little bit of a hold on everything. I then decided to have another kid. I was in the medical field before this, and I was getting a little burnt out with that. Both of my kids were in school, so I said, ‘I’m just going to do it\!’ I quit my job cold turkey and did the real estate thing\!*
 
