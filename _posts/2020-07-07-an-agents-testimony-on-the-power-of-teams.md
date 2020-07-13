@@ -3,7 +3,7 @@ layout: post
 title: An Agent’s Testimony on the Power of Teams
 date: 2020-07-07 20:38:00
 tags:
-excerpt: Here’s what agent Mariah Turner had to say about diving into real estate.
+excerpt: Here’s what agent Mariea Turner had to say about diving into real estate.
 enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+What+Are+the+Benefits+of+Joining+a+Team.mp4
 pullquote: >-
   I think that if I hadn’t joined a team, I probably wouldn’t have stayed in
@@ -17,9 +17,9 @@ youtube_code: _62xmvb9Pmc
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s what agent Mariah Tuner had to say about diving into real estate.</em></p>
+<p style="text-align:center;"><em>Here’s what agent Mariea Tuner had to say about diving into real estate.</em></p>
 
-Today I’m joined by agent Mariah Turner to hear her thoughts on the value of teamwork, how she’s adapted so far, and what she wants other agents to know.&nbsp;
+Today I’m joined by agent Mariea Turner to hear her thoughts on the value of teamwork, how she’s adapted so far, and what she wants other agents to know.&nbsp;
 
 **When did you first take an interest in real estate?&nbsp;**
 
