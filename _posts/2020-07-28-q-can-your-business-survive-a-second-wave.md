@@ -20,7 +20,8 @@ youtube_code: bTRWT7bVNWc
 
 {% include youtube.html %}
 
-Here’s what you need to do in your business to survive a virus resurgence.
+ <p style="text-align: center;"><em>
+Here’s what you need to do in your business to survive a virus resurgence.</em></p>
 
 Here’s the deal. If you’re thinking that we’re not going to have any kind of setback or resurgence when it comes to this virus, I’m guessing that you’re probably mistaken. We are going to see some level of business as usual, probably a short-term quarantine, and who knows what else after that.
 
