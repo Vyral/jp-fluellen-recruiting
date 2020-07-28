@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'Q: Can Your Business Survive a Second Wave?'
-date: 2020-07-28 15:14:13
+date: 2020-07-28 15:14:00
 tags:
+  - Lead Conversion
+  - Lead Generation
 excerpt: Here’s what you need to do in your business to survive a virus resurgence.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+Can+Your+Business+Survive+a+Second+Wave_.mp4
