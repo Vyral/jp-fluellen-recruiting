@@ -17,7 +17,8 @@ youtube_code: U8Y2km-1I2I
 
 {% include youtube.html %}
 
-*Being part of a team means getting support from other experienced agents.*
+ <p style="text-align: center;"><em>
+Being part of a team means getting support from other experienced agents.</em></p>
 
 Why join a real estate team instead of going solo? Today I’m joined by Christina Castillo, one of our awesome team members, to answer that question.
 
