@@ -17,8 +17,7 @@ youtube_code: U8Y2km-1I2I
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Being part of a team means getting support from other experienced agents.</em></p>
+*Being part of a team means getting support from other experienced agents.*
 
 Why join a real estate team instead of going solo? Today I’m joined by Christina Castillo, one of our awesome team members, to answer that question.
 
@@ -28,7 +27,7 @@ Christina chose real estate because she likes helping people and has a talent fo
 
 {% include pullquote.html %}
 
-Additionally, she liked the people on our team and didn’t want to struggle on her own. Had she started off on her own, she doubts her career would’ve begun well. Thus far,she absolutely believes we’ve delivered on the promises we madeto her in terms of support, knowledge, and availability.We have team meetings twice a week, host plenty of team events, and offer several forms of communication for anyone who needs help. We even have our own smartphone app that keeps us all in direct contact with one another.&nbsp;
+Additionally, she liked the people on our team and didn’t want to struggle on her own. Had she started off on her own, she doubts her career would’ve begun well. Thus far, she absolutely believes we’ve delivered on the promises we made to her in terms of support, knowledge, and availability. We have team meetings twice a week, host plenty of team events, and offer several forms of communication for anyone who needs help. We even have our own smartphone app that keeps us all in direct contact with one another.&nbsp;
 
 **“I think you guys have come through on all of your promises** and made it a great, fun time,” Christina says. “I love hanging out with you guys.” What she means by that is we’re the type of team that spends time with each other *outside* of work. “There’s no other team like ours in town, and they don’t do the kinds of things we do. It’s great\!”&nbsp;
 
