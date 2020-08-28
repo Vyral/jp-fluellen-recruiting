@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can Shingles Attract More Buyers to Your Home?'
-date:
+date: 2020-08-28 20:29:23
 tags:
   - Real Estate Tips
   - Home Selling Tips
