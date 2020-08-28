@@ -18,6 +18,6 @@ youtube_code: mTW82RZJRWY
 
 {% include youtube.html %}
 
-How can shingles boost the value of your home?
+<p style="text-align: center;"><em>How can shingles boost the value of your home?</em></p>
 
 High-impact shingles are a particularly resistant kind of roofing material that can withstand hail and wind. But how can adding impact shingles to your roof boost the saleability of your home? Well, when buyers are looking to purchase a home, they’re looking to try to get their monthly payment as low as possible. Insurance companies have been giving homeowners discounts to those who have high-impact shingles, and that’s definitely a draw. So if you’re thinking about how to make your home more appealing to a wider audience of buyers, consider putting in high-impact shingles.
