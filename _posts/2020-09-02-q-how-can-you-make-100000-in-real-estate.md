@@ -16,7 +16,7 @@ youtube_code: NRo3GmAdKTQ
 
 {% include youtube.html %}
 
-*Making six figures in real estate is very possible with this strong tip.*
+<p style="text-align: center;"><em>Making six figures in real estate is very possible with this strong tip.</em></p>
 
 Today I’m excited to light the path, so to speak, on how to get you to making six figures in the real estate business.
 
