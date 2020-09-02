@@ -3,11 +3,11 @@ layout: post
 title: 'Q: How Can You Make $100,000 in Real Estate?'
 date: 2020-09-02 20:58:00
 tags:
-  - Real Estate Tips
 excerpt: Making six figures in real estate is very possible with this strong tip.
 enclosure:
 pullquote: It’s all about trying to find a better way to live.
-enclosure_type: video/mp4
+enclosure_type: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+How+Can+You+Make+%24100%2C000+in+Real+Estate_.mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
@@ -16,7 +16,7 @@ youtube_code: NRo3GmAdKTQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Making six figures in real estate is very possible with this strong tip.</em></p>
+*Making six figures in real estate is very possible with this strong tip.*
 
 Today I’m excited to light the path, so to speak, on how to get you to making six figures in the real estate business.
 
