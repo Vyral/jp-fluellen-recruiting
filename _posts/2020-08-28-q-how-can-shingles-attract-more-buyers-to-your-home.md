@@ -7,7 +7,8 @@ excerpt: How can shingles boost the value of your home?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+How+Can+Shingles+Attract+More+Buyers+to+Your+Home_.mp4
 pullquote:
-enclosure_type: video/mp4
+enclosure_type: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Q-+How+Can+Shingles+Attract+More+Buyers+to+Your+Home_.mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
