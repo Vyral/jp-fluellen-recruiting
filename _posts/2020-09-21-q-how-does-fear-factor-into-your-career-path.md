@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Q: How Does Fear Factor Into Your Career Path?'
-date: 2020-09-21 18:44:49
+date: 2020-09-21 18:44:00
 tags:
-  - Real Estate Agent Tips
 excerpt: 'Whether you like it or not, everything you want is on the other side of fear.'
 enclosure:
 pullquote: >-
@@ -13,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: i_4v1Esit6g
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Whether you like it or not, everything you want is on the other side of fear.</em></p>
+*Whether you like it or not, everything you want is on the other side of fear.*
 
 Making the change you need to make in your career boils down to one thing: fear.&nbsp;
 
