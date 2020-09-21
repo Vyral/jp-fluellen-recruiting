@@ -17,7 +17,7 @@ youtube_code: i_4v1Esit6g
 
 {% include youtube.html %}
 
-*Whether you like it or not, everything you want is on the other side of fear.*
+<p style="text-align: center;"><em>Whether you like it or not, everything you want is on the other side of fear.</em></p>
 
 Making the change you need to make in your career boils down to one thing: fear.&nbsp;
 
