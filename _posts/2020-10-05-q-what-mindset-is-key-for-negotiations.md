@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'Q: What Mindset Is Key for Negotiations?'
-date: 2020-10-05 15:39:57
+date: 2020-10-05 15:39:00
 tags:
+  - Home Selling Tips
+  - Home Buying Tips
 excerpt: Here’s a high-level look at how to start honing your negotiation skills.
 enclosure:
 pullquote: >-
@@ -17,7 +19,7 @@ youtube_code: LkiU56TCJcU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a high-level look at how to start honing your negotiation skills.</em></p>
+*Here’s a high-level look at how to start honing your negotiation skills.*
 
 Negotiating skills come into play most when you’re a listing agent trying to win the listing. **The fundamental thing you need to be thinking about is how you can provide value.** To give a seller a compelling reason to work with you, you’ll need to come in and do something different from what your competition is doing. What are you bringing to the table?&nbsp;
 
