@@ -17,7 +17,7 @@ youtube_code: LkiU56TCJcU
 
 {% include youtube.html %}
 
-Here’s a high-level look at how to start honing your negotiation skills.&nbsp;
+<p style="text-align: center;"><em>Here’s a high-level look at how to start honing your negotiation skills.</em></p>
 
 Negotiating skills come into play most when you’re a listing agent trying to win the listing. **The fundamental thing you need to be thinking about is how you can provide value.** To give a seller a compelling reason to work with you, you’ll need to come in and do something different from what your competition is doing. What are you bringing to the table?&nbsp;
 
