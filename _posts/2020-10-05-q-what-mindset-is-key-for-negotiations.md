@@ -3,8 +3,6 @@ layout: post
 title: 'Q: What Mindset Is Key for Negotiations?'
 date: 2020-10-05 15:39:00
 tags:
-  - Home Selling Tips
-  - Home Buying Tips
 excerpt: Here’s a high-level look at how to start honing your negotiation skills.
 enclosure:
 pullquote: >-
@@ -33,6 +31,6 @@ If you got your listing under contract and are now trying to negotiate a better 
 
 Let’s say you’ve agreed to $2,000 in repairs on a deal but there is $7,500 worth of repairs that the buyer wants—how are you going to negotiate to a point where both the buyer and seller feel comfortable? In this scenario, be sure not to lay out all cards up front. Rather than just saying, “Okay, this is what we’re going to do,” which will drive the deal further down a particular road, ask this open-ended question first: “What is it that you feel would be fair?”&nbsp;
 
-The answer may be more than you were willing to give, but it could also be the case that the seller had fully expected to do all of the repairs and was pleasantly surprised to know that the buyer only wanted $3,500 worth of repairs. Understand how each party defines ‘fair and reasonable’ before you commit to anything—that’s how you’ll really begin to hone your negotiation skills.&nbsp;
+The answer may be more than you were willing to give, but the seller may have also fully expected to do all of the repairs and was pleasantly surprised to know that the buyer only wanted $3,500 worth of repairs. Understand how each party defines ‘fair and reasonable’ before you commit to anything—that’s how you’ll really begin to hone your negotiation skills.&nbsp;
 
-There is so much that goes into negotiating, and it can’t all be covered in one video; stay tuned for follow-up videos on specific negotiating tactics\! Hopefully, you found this introduction to negotiation helpful, and as always, reach out by phone or email if you ever need anything. We'd be more than happy to assist you.
+There is so much that goes into negotiating, and it can’t all be covered in one video; **stay tuned for follow-up videos on specific negotiating tactics\!** Hopefully, you found this introduction to negotiation helpful, and as always, reach out by phone or email if you ever need anything. We'd be more than happy to assist you.
