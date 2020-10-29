@@ -15,7 +15,7 @@ youtube_code: wg4lxTXiTVQ
 
 {% include youtube.html %}
 
-Today let’s dive a little deeper into negotiating a real estate transaction.
+<p style="text-align: center;"><em>Today let’s dive a little deeper into negotiating a real estate transaction.</em></p>
 
 Last time, we discussed a few tips for boosting your negotiating skills during a real estate transaction, and today I wanted to round out that topic with a few more pointers. We won’t get too specific, since each situation could require a long explanation. Here are some universal basics to use in pretty much any situation:
 
