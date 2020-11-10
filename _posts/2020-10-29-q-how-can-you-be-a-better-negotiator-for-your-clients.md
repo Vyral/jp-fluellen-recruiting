@@ -3,8 +3,10 @@ layout: post
 title: 'Q: How Can You Be a Better Negotiator for Your Clients?'
 date: 2020-10-29 16:24:00
 tags:
+  - Agent Tips
 excerpt: Today let’s dive a little deeper into negotiating a real estate transaction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/How+Can+You+Be+a+Better+Negotiator+for+Your+Clients_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +17,7 @@ youtube_code: wg4lxTXiTVQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today let’s dive a little deeper into negotiating a real estate transaction.</em></p>
+*Today let’s dive a little deeper into negotiating a real estate transaction.*
 
 Last time, we discussed a few tips for boosting your negotiating skills during a real estate transaction, and today I wanted to round out that topic with a few more pointers. We won’t get too specific, since each situation could require a long explanation. Here are some universal basics to use in pretty much any situation:
 
