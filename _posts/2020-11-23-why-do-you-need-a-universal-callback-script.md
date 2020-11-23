@@ -16,7 +16,7 @@ youtube_code: jJq0yft_mh8
 
 {% include youtube.html %}
 
-Using a script is the best way to provide value over the phone.
+<p style="text-align: center;"><em>Using a script is the best way to provide value over the phone.</em></p>
 
 Now that you have a database of people to call, you need the right script to use when calling them.&nbsp;
 
