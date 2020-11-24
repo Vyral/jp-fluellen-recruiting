@@ -26,6 +26,4 @@ That’s the whole purpose of getting someone on the phone—to have a meaningfu
 
 {% include pullquote.html %}
 
-Oftentimes, you can get someone on the phone and talk and talk and talk without getting information that’s helping you help them, but having a script ready prevents this from happening because it adds value. **You’re a real estate agent—they want what you have, which is access to properties and information.&nbsp;**
-
-If you’d like a copy of the universal callback script, get in touch with me and I’d be happy to send you one. If you have any questions about today’s topic, feel free to reach out to me as well. I’d love to speak with you.
+Oftentimes, you can get someone on the phone and talk and talk and talk without getting information that’s helping you help them, but having a script ready prevents this from happening because it adds value. **You’re a real estate agent—they want what you have, which is access to properties and information.&nbsp;**If you’d like a copy of the universal callback script, get in touch with me and I’d be happy to send you one. If you have any questions about today’s topic, feel free to reach out to me as well. I’d love to speak with you.
