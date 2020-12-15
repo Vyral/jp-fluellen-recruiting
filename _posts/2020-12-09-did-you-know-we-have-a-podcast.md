@@ -5,7 +5,7 @@ date: 2020-12-14 16:16:30
 tags:
   - Announcements
 excerpt: 'If you haven’t listened to our podcast yet, you need to, and here’s why.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Did+You+Know+We+Have+a+Podcast_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
