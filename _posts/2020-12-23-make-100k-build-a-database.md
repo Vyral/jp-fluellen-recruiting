@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Make $100K: Build a Database'
-date: 2020-12-23 22:32:15
+date: 2020-12-23 22:32:00
 tags:
 excerpt: To increase your real estate business you need to build a database.
 enclosure:
@@ -17,7 +17,7 @@ youtube_code: /tLd2j9TBgf4
 
 {% include youtube.html %}
 
-<center>To increase your real estate business you need to build a database.</center>
+To increase your real estate business you need to build a database.
 
 We’re continuing the conversation about how to make $100K a year in real estate. Today we’re discussing how to build a database because, **without anyone to call or talk to, you can’t build a large real estate business.**&nbsp;
 
