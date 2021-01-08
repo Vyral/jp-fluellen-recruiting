@@ -16,7 +16,7 @@ youtube_code: 0YOMurMWhSQ
 
 {% include youtube.html %}
 
-How to time block successfully to ensure you’re moving business forward.
+<p style="text-align: center;"><em>How to time block successfully to ensure you’re moving business forward.</em></p>
 
 In continuing our 100k blueprint, today I’m discussing time blocking. Time blocking means that if it’s in your schedule, then it’s cemented there. Unless the world will change somehow, someone’s having a baby, or the house is on fire, you need to stick to your schedule. **To be truly successful in the real estate business, you must time block.&nbsp;**
 
