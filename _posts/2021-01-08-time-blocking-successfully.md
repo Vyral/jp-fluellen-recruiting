@@ -20,7 +20,7 @@ youtube_code: 0YOMurMWhSQ
 
 In continuing our 100k blueprint, today I’m discussing time blocking. Time blocking means that if it’s in your schedule, then it’s cemented there. Unless the world will change somehow, someone’s having a baby, or the house is on fire, you need to stick to your schedule. **To be truly successful in the real estate business, you must time block.&nbsp;**
 
-If you’re setting aside four hours daily for prospecting, then you need to tell yourself that those four hours are sacred and not let anything get in the way of that. I recommend turning off all phone notifications and doing anything you can to eliminate distractions; don’t have your email tab open, just pull up your CRM, and then it’s go time. Don’t let this dollar productive time get interrupted by non-dollar producing activities.
+If you’re setting aside four hours daily for prospecting, then you need to tell yourself that those four hours are sacred and not let anything get in the way of that. I recommend turning off all phone notifications and doing anything you can to eliminate distractions; don’t have your email tab open, just pull up your CRM, and then it’s go time. Don’t let this dollar-productive time get interrupted by non-dollar producing activities.
 
 {% include pullquote.html %}
 
