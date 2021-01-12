@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time Blocking Successfully
-date: 2021-01-08 19:14:35
+date: 2021-01-11 09:14:35
 tags:
   - Agent Tips
 excerpt: How to time block successfully to ensure you’re moving business forward.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0YOMurMWhSQ
+youtube_code: _HnbOekjnZk
 ---
 
 {% include youtube.html %}
