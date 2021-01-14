@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Time Blocking Successfully
-date: 2021-01-11 09:14:35
+date: 2021-01-14 09:14:35
 tags:
   - Agent Tips
 excerpt: How to time block successfully to ensure you’re moving business forward.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Time+Blocking+Successfully.mp4
 pullquote: 'If it’s in your schedule, then it’s cemented there.'
 enclosure_type: video/mp4
 enclosure_time:
