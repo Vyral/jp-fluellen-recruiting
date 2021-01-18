@@ -18,7 +18,7 @@ youtube_code: wOqCBdaHJ0c
 
 {% include youtube.html %}
 
-It’s not too late to get back on track with your 2021 business goals.
+<p style="text-align: center;"><em>It’s not too late to get back on track with your 2021 business goals.</em></p>
 
 The new year is here and I know you’re hearing all this stuff about goal setting and business planning. Here’s the reality: You’re probably not on the right track… yet. However, here’s how you can break things down into bite-sized pieces to help you accomplish your goals for 2021.
 
