@@ -8,7 +8,7 @@ tags:
   - Planning
 excerpt: It’s not too late to get back on track with your 2021 business goals.
 enclosure:
-pullquote: There are certain actions you need to take each and every day.
+pullquote: There are certain actions you need to take every day.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: wOqCBdaHJ0c
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>It’s not too late to get back on track with your 2021 business goals.</em></p>
+*It’s not too late to get back on track with your 2021 business goals.*
 
 The new year is here and I know you’re hearing all this stuff about goal setting and business planning. Here’s the reality: You’re probably not on the right track… yet. However, here’s how you can break things down into bite-sized pieces to help you accomplish your goals for 2021.
 
@@ -28,6 +28,6 @@ First, what can you do today that’s different from what you did last year? **Y
 
 Next, you need to time block. Don’t get caught up in specific measurements of volume, but set aside that time to take action with your lead generation every single day. **Take a day off on the weekend if you need to.** That’s totally fine.&nbsp;
 
-When you start seeing momentum and getting a few closings under your belt, now you can have some success to measure against your goals.
+When you start seeing momentum and getting a few closings under your belt, then you have some success to measure against your goals.
 
 If you have any questions for me or need some help kickstarting your year, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
