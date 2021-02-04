@@ -16,7 +16,7 @@ youtube_code: 3r7FB5zSZsY
 
 {% include youtube.html %}
 
-Here’s my advice for making online profiles that leave a lasting impression.
+<p style="text-align: center;"><em>Here’s my advice for making online profiles that leave a lasting impression.</em></p>
 
 {% include pullquote.html %}
 
