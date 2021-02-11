@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Tips for Curating a Strong Profile
-date: 2021-02-04 09:00:00
+date: 2021-02-11 09:00:00
 tags:
   - Lead Generation
 excerpt: Here’s my advice for making online profiles that leave a lasting impression.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Tips+for+Curating+a+Strong+Profile.mp4
 pullquote: Think of your profile as a digital business card.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,8 +17,7 @@ youtube_code: baHLEJ8p0ok
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s my advice for making online profiles that leave a lasting impression.</em></p>
-
+*Here’s my advice for making online profiles that leave a lasting impression.*
 
 Essentially, a profile is you… *online.* How can somebody get a handle on your personality, your background, and what you stand for as a professional in the least amount of time possible? Therein lies the challenge of building a good profile\! **When designing a profile, you’ll want to include a short story about yourself** that touches on how long you’ve been in the business and transitions nicely into an explanation of why you’re the best.&nbsp;
 
