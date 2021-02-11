@@ -17,7 +17,7 @@ youtube_code: baHLEJ8p0ok
 
 {% include youtube.html %}
 
-*Here’s my advice for making online profiles that leave a lasting impression.*
+<p style="text-align: center;"><em>Here’s my advice for making online profiles that leave a lasting impression.</em></p>
 
 Essentially, a profile is you… *online.* How can somebody get a handle on your personality, your background, and what you stand for as a professional in the least amount of time possible? Therein lies the challenge of building a good profile\! **When designing a profile, you’ll want to include a short story about yourself** that touches on how long you’ve been in the business and transitions nicely into an explanation of why you’re the best.&nbsp;
 
