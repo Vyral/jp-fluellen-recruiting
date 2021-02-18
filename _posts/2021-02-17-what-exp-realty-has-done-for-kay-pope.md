@@ -16,7 +16,7 @@ youtube_code: oPqHzWX-7qE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why agent Kay Pope decided to join eXp Realty.</em></p>
+*Here’s why agent Kay Pope decided to join eXp Realty.*
 
 Kay Pope is one of eXp’s newest rockstar agents, and today she joins me for an interview about how she got into real estate and what drew her to eXp Realty. Kay works as a flight attendant for American Airlines, but after a corporate shakeup left many in her industry unemployed and destitute, she decided she needed a backup plan. That’s when she started doing real estate on the side. Since she joined eXp, though, the size of her “side job” has only grown.&nbsp;
 
@@ -30,7 +30,7 @@ Kay Pope is one of eXp’s newest rockstar agents, and today she joins me for an
 
 6:20—How she dealt with the stress of her career change&nbsp;
 
-10:37—Understanding everything eXP has to offer&nbsp;
+10:37—Understanding everything eXp has to offer&nbsp;
 
 13:14—Wrapping things up
 
