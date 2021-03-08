@@ -26,10 +26,10 @@ Here’s the deal: **I worked 30-some odd jobs before I was 30 and had no idea w
 
 I was very green when I entered the business and really didn’t have a clue of what I was doing, but I watched some YouTube videos, read a few books, and followed all the gurus out there. Then my sister-in-law told me I needed to get my real estate license, so I did. For a guy who had already had 30 jobs, I considered this one No. 31, thinking I’d eventually have No. 32. Luckily, I stopped at 31. 
 
-All of this is to say that I’m just an average, every-day person like you. If you don’t like what you’re doing now and feel like you’re stuck on a hamster wheel, I recommend exploring a real estate career—whether that means investing or becoming a full-time agent. If you don’t join my team, at least join our company. We have all the tools and know all the tricks of the trade to help you become super successful.
+All of this is to say that I’m just an average, every-day person like you. If you don’t like what you’re doing now and feel like you’re stuck on a hamster wheel, I recommend exploring a real estate career—whether that means investing or becoming a full-time agent. If you don’t join my team, at least join our company, eXp Realty. We have all the tools and know all the tricks of the trade to help you become super successful.
 
 A lot of people out there are asking themselves, “What does success look like?” For everyone out there who thinks success means making six figures, they’re right. **We have a roadmap, and we can carry you through that roadmap until you’re making six figures and living the life of your dreams.** 
 
-If you’d like to know more about what a real estate career can do for you or would like to join my team, reach out to me anyway you can. I’d love to speak with you. 
+If you’d like to know more about what a real estate career can do for you or want to join my team, reach out to me however you prefer. I’d love to speak with you. 
 
 
