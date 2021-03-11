@@ -17,7 +17,7 @@ youtube_code: bNiAgZNP9oM
 ---
 {% include youtube.html %}
 
-*Here’s why I think you should consider becoming a real estate agent. *
+<p style="text-align: center;"><em>Here’s why I think you should consider becoming a real estate agent.</em></p>
 
 Why do I think everybody should become a real estate agent?
 
