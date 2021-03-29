@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Real Estate Role-Playing
-date: 2021-03-18 09:00:00
+date: 2021-03-29 09:00:00
 tags:
   - Transaction Management
   - Listing Presentation
 excerpt: Here’s why you should practice your skills with role-play in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Real+Estate+Role-Playing.mp4
 pullquote: >-
   With role-play, you can practice in no-pressure situations, so you aren’t
   messing up when it counts.
