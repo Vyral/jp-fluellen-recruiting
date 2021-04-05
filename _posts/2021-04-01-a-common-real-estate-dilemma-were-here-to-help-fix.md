@@ -22,7 +22,7 @@ When thinking about why you are where you are in the business and how the cultur
 
 {% include pullquote.html %}
 
-The costs can really add up, actually. If you have franchise fees, no cap, office bills, advertising costs, and administrative costs, you’re stuck in a weird spot because **the expenses you incur in the name of culture is impacting your paycheck.**
+The costs can really add up. If you have franchise fees, no cap, office bills, advertising costs, and administrative costs, you’re stuck in a weird spot because **the expenses you incur in the name of culture impact your paycheck.**
 
 Why does it have to be that way? Why can’t you just have a space with great culture and less overhead? **That’s what agents love about working with us at eXp.** We don’t have those same marketing and office costs. Our agents make more while also enjoying that great culture.
 
