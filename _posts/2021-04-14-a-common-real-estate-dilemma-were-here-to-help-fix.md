@@ -1,10 +1,11 @@
 ---
 layout: post
 title: A Common Real Estate Dilemma We’re Here to Help Fix
-date: 2021-04-01 09:00:00
+date: 2021-04-14 09:00:00
 tags:
 excerpt: Here’s how we’re helping to solve a major dilemma that agents are facing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/A+Common+Real+Estate+Dilemma+We%E2%80%99re+Here+to+Help+Fix.mp4
 pullquote: We don’t have those same marketing and office costs that most brokerages do.
 enclosure_type: video/mp4
 enclosure_time:
