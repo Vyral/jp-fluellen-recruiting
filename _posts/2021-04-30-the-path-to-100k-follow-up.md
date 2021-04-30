@@ -4,6 +4,7 @@ title: 'The Path to 100K: Follow-up'
 date: 2021-04-30 00:00:00
 tags:
   - Lead Conversion
+  - Lead Generation
 excerpt: Here’s why follow-up is so crucial when working in a lead-based business.
 enclosure:
 pullquote: The fortune is in the follow-up.
