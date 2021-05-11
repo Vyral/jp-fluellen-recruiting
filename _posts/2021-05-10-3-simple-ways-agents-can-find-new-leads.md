@@ -29,4 +29,4 @@ The next area is found in your online lead generation tools. These are internet 
 
 The last place to find leads is, well, all around you. The old-school approach of prospecting new leads is still incredibly effective today, and all you need to do is go out and strike up a conversation with those around you. **It may be uncomfortable, but it’s a great way to turn cold leads into warm ones.** Prospecting may include open houses, door-knocking, flyers, and contacting FSBOs or expired leads.
 
-If you want to learn more about how to grow your database, feel free to reach out to us. We’d be happy to show you the different ways you can help kickstart your business in 2021. Until then, we look forward to hearing from you soon.
+If you want to learn more about how to grow your database, feel free to reach out to us. We’d be happy to show you the different ways you can help kickstart your business in 2021. We look forward to hearing from you soon.
