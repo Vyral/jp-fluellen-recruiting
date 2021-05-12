@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'The Path to 100K: Follow-up'
-date: 2021-04-30 00:00:00
+date: 2021-05-12 09:00:00
 tags:
   - Lead Conversion
   - Lead Generation
 excerpt: Here’s why follow-up is so crucial when working in a lead-based business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/The+Path+to+100K_+Follow-up.mp4
 pullquote: The fortune is in the follow-up.
 enclosure_type: video/mp4
 enclosure_time:
