@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Numbers You Need to Know to See Success
-date: 2021-06-03 20:22:22
+date: 2021-06-03 20:22:00
 tags:
   - Planning
   - Realtor Tips
 excerpt: 'When it comes to success in real estate, the numbers don’t lie.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/The+Numbers+You+Need+to+Know+to+See+Success.mp4
 pullquote: >-
   If you make 100 calls and have at least 10 meaningful conversations, that will
   lead to at least one appointment.
