@@ -5,7 +5,7 @@ date: 2021-06-03 20:22:00
 tags:
   - Planning
   - Realtor Tips
-excerpt: 'When it comes to success in real estate, the numbers don’t lie.'
+excerpt: When it comes to success in real estate, the numbers don’t lie.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/The+Numbers+You+Need+to+Know+to+See+Success.mp4
 pullquote: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/the-numbers-dont-lie-ss.jpg
-youtube_code: GpqAD8VFA4Q
+youtube_code: oyAB3s3OkwI
 ---
 {% include youtube.html %}
 
