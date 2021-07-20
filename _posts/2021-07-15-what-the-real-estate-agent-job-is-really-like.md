@@ -3,8 +3,8 @@ layout: post
 title: What the Real Estate Agent Job Is Really Like
 date: 2021-07-15 00:00:00
 tags:
-  - Agent Tips
-  - Real Estate Tips
+  - real estate
+  - agenttips
 excerpt: Learn misconceptions about the job before becoming a real estate agent.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/What+the+Real+Estate+Agent+Job+Is+Really+Like.mp4
