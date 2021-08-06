@@ -8,7 +8,7 @@ tags:
 excerpt: Here is my advice on how to bring your listing presentation to the next level.
 enclosure:
 pullquote: >-
-  When we let our seller’s become part of the process, we’re giving our clients
+  When we let our sellers become part of the process, we’re giving our clients
   the value they want. 
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,7 +26,7 @@ When most agents do a listing presentation, they bring a thick listing packet an
 
 {% include pullquote.html %}
 
-By presenting our data this way, we let our sellers become part of the process. A lot of listing presentations present a lot of flowery bells and whistles, but at the end of the day, that’s not marketing. The key to successful marketing is to bring value to your clients. When we let our seller’s become part of the process, we’re giving our clients the value they want.&nbsp;
+By presenting our data this way, we let our sellers become part of the process. A lot of listing presentations present a lot of flowery bells and whistles, but at the end of the day, that’s not marketing. The key to successful marketing is to bring value to your clients. When we let our sellers become part of the process, we’re giving our clients the value they want.&nbsp;
 
 A common mistake I see listing presenters make is when they start suggesting adjustments to the home. This might seem like a way to bring value to your client, but this is really the appraiser's job, and it is best left to them. **Our job as agents is to get the house under contract.** Once that’s done, we can let all the adjustments shake out. Our main goal should be to clearly communicate how much we can get for our client’s home. Everything else is best left to other professionals.&nbsp;
 
