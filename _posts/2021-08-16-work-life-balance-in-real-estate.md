@@ -23,4 +23,4 @@ Work-life balance was created so that people could balance the idea of having ti
 
 The beauty of being a real estate agent is that you're able to have complete control over those things. That doesn't mean that you can just take time off whenever you want without consequences. You have to let other people know that you're not working, rather than just punch your ticket and go.&nbsp; However, you get to grab a hold of life and decide how much you want to work. Sometimes you can give away some of your business to a colleague and get paid for the referral while you’re away.
 
-If you want to talk more about work-life balance, give me a call.
+If you want to talk more about work-life balance or anything else, give me a call. I am always willing to help.
