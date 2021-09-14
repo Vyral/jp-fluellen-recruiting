@@ -21,14 +21,14 @@ youtube_code: kein72TBVRU
 
 {% include excerpt.html %}
 
-Have you ever wondered why some real estate teams don’t like to share their commission split? I’ve always found this weird since if you’re hiding your commission, how does a potential team member know they can trust you? Today, I want to go over all the options at Titan Realty so you have a better idea of what we offer.&nbsp;
+Have you ever wondered why some real estate teams don’t like to share their commission split? I’ve always found this weird, if you’re hiding your commission, how does a potential team member know they can trust you? Today I want to go over all the options at Titan Realty so you have a better idea of what we offer.&nbsp;
 
 When an agent starts on our team, **they are assigned a mentor, and their splits are 70/30**. Part of this split is paid to the mentor, who stays with you for the first five transactions. You’re essentially paying them a 20% referral fee, but it’s a great way to get a grasp on real estate and get some connections going right away.&nbsp;
 
-After five transactions, you’re on your own. eXp realty will take an 80/20 split up to the first $8,000, and after that, it’s our standard 70/30 split. Essentially, **this means it’s a 50/50 split up to the first $8,000, then it’s 70/30.&nbsp;**
+After five transactions, you’re on your own. eXp Realty will take an 80/20 split up to the first $8,000, and after that, it’s our standard 70/30 split. Essentially, **this means it’s a 50/50 split up to the first $8,000, then it’s 70/30.&nbsp;**
 
 {% include pullquote.html %}
 
-Since we’re partnered with eXp Realty, you’ll be gifted stocks every year on your anniversary and whenever you do your first transaction every year. eXp also offers six other ways to make money,so **there’s a lot of opportunities for ambitious agents.&nbsp;**
+Since we’re partnered with eXp Realty, you’ll be gifted stocks every year on your anniversary and whenever you do your first transaction every year. eXp also offers six other ways to make money, so **there’s a lot of opportunities for ambitious agents.&nbsp;**
 
-At the end of the day, **we are extremely agent-focused here at the Titan Team.** We pride ourselves on setting up our agents for success, so if you’re at all interested, please reach out to me. My number is 307-772-1184, and my email is [james.fluellen@gmail.com](mailto:james.fluellen@gmail.com). I look forward to hearing from you\!
+At the end of the day, we are extremely agent-focused here at the Titan Team. We pride ourselves on setting up our agents for success, so if you’re at all interested, please reach out to me. My number is 307-772-1184, and my email is [james.fluellen@gmail.com](mailto:james.fluellen@gmail.com). I look forward to hearing from you\!
