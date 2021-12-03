@@ -18,7 +18,7 @@ youtube_code: ECL74Jf4FnY
 
 {% include excerpt.html %}
 
-Today we’re going to talk about being coachable. Most agents don’t even think about this, but you need to be able to reframe your mindset, think about improving your business, and change the behaviors that are getting in the way of your full potential. That’s why I get coached in everything that I suck at.&nbsp;
+Today we’re going to talk about being coachable. Most agents don’t even think about this, but you need to be able to reframe your mindset, think about improving your business, and change the behaviors that are getting in the way of your full potential. That's why when I'm not good at something, I get coaching to help me.
 
 For example, I hired a fitness and nutrition coach a few months ago. Since then, I lost 15 pounds and gained back seven pounds of muscle. **Hiring the right people can put you in the right direction.**
 
@@ -28,6 +28,8 @@ There’s a phrase, “If you pay someone, you pay attention.” If you’re pay
 
 **Coaching opens you up to different perspectives** and things you wouldn’t have thought about by yourself. With my team leader coach, I’ve implemented a ton of things into my business over the last few years that have helped move it forward.&nbsp;
 
-**Coaching is also a good way to get into a group of elites.** You can pay to be around people who are above where you’re at. Looking at those elites and trying to be in their shoes is a good way to keep yourself motivated.
+**Coaching is also a good way to get into a group of elites.** You can pay to be around people who are above where you are. Looking at those elites and trying to be in their shoes is a good way to keep yourself motivated.
 
 Being coachable all comes back to growth. Are you willing to do what it takes to become the person you were meant to be? That's how you achieve success.
+
+If you have questions about this or any other real estate matter, please call or email me. I would love to help you.
