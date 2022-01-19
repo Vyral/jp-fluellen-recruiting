@@ -21,4 +21,4 @@ A lot of agents get caught up in the idea that they need a bunch of initials beh
 
 The reality is that these designations can help you network, get referrals, and further your career. **However, having a designation won’t be a defining factor for success in this business.** At the end of the day, if you need CE credit and getting a designation along the way is worth your time and money, then go ahead, but don't get caught up in the idea that having those initials will magically make you a successful agent.
 
-If you want more information on how to become a successful real estate agent, feel free to reach out to me. I look forward to hearing from you.
+If you want more information on how to become a successful real estate agent, feel free to reach out to me via phone or email. I look forward to hearing from you.
