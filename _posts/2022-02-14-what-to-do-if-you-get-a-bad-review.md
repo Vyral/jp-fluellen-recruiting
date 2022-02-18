@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Reviews and Referrals
 excerpt: As an agent, what should you do when you receive a bad review?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/What+To+Do+if+You+Get+a+Bad+Review.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
