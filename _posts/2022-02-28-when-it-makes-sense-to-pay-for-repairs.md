@@ -5,7 +5,8 @@ date: 2022-02-28 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s when it does and does not make sense to pay for repairs.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/When+It+Makes+Sense+To+Pay+for+Repairs.mp4
 pullquote: >-
   Deciding if you should pay for repairs is about understanding and
   communication.
@@ -23,7 +24,7 @@ Today I want to talk to you about an important topic that a lot of agents don’
 
 {% include pullquote.html %}
 
-This is something I hear from agents often, but it seems like most think it’s the equivalent of throwing in the towel. This couldn’t be further from the truth. **In reality, offering to pay for repairs yourself can be a powerful negotiating tactic. **
+This is something I hear from agents often, but it seems like most think it’s the equivalent of throwing in the towel. This couldn’t be further from the truth. \*\*In reality, offering to pay for repairs yourself can be a powerful negotiating tactic. \*\*
 
 If you decide to pay for repairs, it isn’t about giving up; it’s about communication and understanding. While this is an important tool in any agent’s repertoire, you should be careful about using it correctly. If you default to paying for difficult items yourself, it could cost you in the long run when you get busier.
 
