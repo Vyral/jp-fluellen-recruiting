@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jp-fluellen-ss-yt-4.jpg
-youtube_code: ET54QeRp7Co
+youtube_code: vJOPb0hWVwI
 ---
 {% include youtube.html %}
 
