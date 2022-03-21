@@ -6,7 +6,8 @@ tags:
   - Agent Tips
   - Real Estate
 excerpt: A simple trick to staying in front of your clients long after closing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Stay+in+Front+of+Your+Clients.mp4
 pullquote: 82% of clients forget who you are within a year after closing.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: Mh4MLh6DOkM
 
 Today we'll talk about how to create a simple referral repeat SOI business.
 
-Statistics show that 82% of clients forget who you are within a year after closing a transaction with you. But that’s not what you want to happen—if you can stay top of mind with clients even after you’re done helping them, some of them will send you referrals for more business.&nbsp;
+Statistics show that 82% of clients forget who you are within a year after closing a transaction with you. But that’s not what you want to happen—if you can stay top of mind with clients even after you’re done helping them, some of them will send you referrals for more business.
 
 There’s an easy trick you can do to keep your name in their minds: **Every time you close with a client, mark-down their closing anniversary on your Google calendar.** Then, every time it pops up, send out a postcard to them. It's easy, and I usually get six or seven repeat referral business deals out of it every year.
 
