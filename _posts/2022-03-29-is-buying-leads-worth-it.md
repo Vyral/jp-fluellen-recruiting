@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jp-fluellen-leads-yt.jpg
-youtube_code: 5bP0x2bTvDc
+youtube_code: 7RQCQDEXJEY
 ---
 {% include youtube.html %}
 
