@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jp-fluellen-leads-yt.jpg
-youtube_code: 7RQCQDEXJEY
+youtube_code: 940BOfsQiBM
 ---
 {% include youtube.html %}
 
@@ -22,9 +22,9 @@ youtube_code: 7RQCQDEXJEY
 
 To buy leads, or not to buy? This has been the subject of debate in the real estate industry for a long time now. Today we’ll discuss whether or not the practice has any merits.
 
-**If you’re trying to build a huge real estate team or a big big business, then running around neighborhoods, dropping off gifts, and knocking on doors to get leads simply isn’t scalable.**&nbsp;To get the leads you need to achieve your desired growth, you’ll have to market to a broader audience, and that is something you’ll have to pay for.
+**If you’re trying to build a huge real estate team or a big big business, then running around neighborhoods, dropping off gifts, and knocking on doors to get leads simply isn’t scalable.** To get the leads you need to achieve your desired growth, you’ll have to market to a broader audience, and that is something you’ll have to pay for.
 
-There are a few different ways to pay for leads. You can purchase pay-per-click leads from sites like Google or Facebook, or you could hire an ad agency to help you learn how to make your own ads.&nbsp;**Alternatively, you could subscribe to portal sites like Zillow or Realtor.com.** These kinds of leads are more expensive than others because they have to go into the portal and ask to be connected to an agent like you.&nbsp;
+There are a few different ways to pay for leads. You can purchase pay-per-click leads from sites like Google or Facebook, or you could hire an ad agency to help you learn how to make your own ads. **Alternatively, you could subscribe to portal sites like Zillow or Realtor.com.** These kinds of leads are more expensive than others because they have to go into the portal and ask to be connected to an agent like you.
 
 {% include pullquote.html %}
 
