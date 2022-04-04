@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Why real estate agents should buy online leads if they want to grow their
   teams.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Is+Buying+Leads+Worth+It_.mp4
 pullquote: The more money you spend on leads, the hotter the leads you’ll get.
 enclosure_type: video/mp4
 enclosure_time:
