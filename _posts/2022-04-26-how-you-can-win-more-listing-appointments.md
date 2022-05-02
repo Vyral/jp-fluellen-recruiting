@@ -5,7 +5,8 @@ date: 2022-04-26 00:00:00
 tags:
   - Real Estate
 excerpt: Three all too common mistakes that agents make at listing appointments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/3+mistakes+agents+make+at+listing+appointments.mp4
 pullquote: >-
   If they’ve heard enough to decide and you’ve offered a service unique to your
   style, you will get a listing.
