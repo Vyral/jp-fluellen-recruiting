@@ -19,7 +19,7 @@ youtube_code: O32zIqlrfGk
 
 Why do some agents fail in the real estate business? In my opinion, it comes down to one thing: They are afraid to start.&nbsp;
 
-When you begin in the industry, you don’t know where to begin, you’re afraid to call your family and friends, you don’t know how to start a contact list, etc. At my brokerage, Real, there’s tons of training for new agents. A lot of it’s online, but there’s in-person training too if you prefer that. I’ve seen a lot of agents take advantage of this training but never put it into practice.&nbsp;
+When you're new to the industry, you don’t know where to begin. You’re afraid to call your family and friends, you don’t know how to start a contact list, etc. At my brokerage, Real, there’s tons of training for new agents. A lot of it’s online, but there’s in-person training too if you prefer that. I’ve seen a lot of agents take advantage of this training but never put it into practice.&nbsp;
 
 {% include pullquote.html %}
 
