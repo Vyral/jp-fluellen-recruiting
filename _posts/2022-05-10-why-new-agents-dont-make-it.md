@@ -5,7 +5,8 @@ date: 2022-05-10 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s why so many new agents fail when they start in the industry.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/JP+Fluellen/Why+New+Agents+Don%E2%80%99t+Make+It.mp4
 pullquote: All the training in the world won’t help if you don’t put it into practice.
 enclosure_type: video/mp4
 enclosure_time:
