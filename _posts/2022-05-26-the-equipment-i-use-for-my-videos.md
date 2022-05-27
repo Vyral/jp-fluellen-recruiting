@@ -19,7 +19,7 @@ youtube_code: ZGpZJ27WwcE
 
 If you follow my blog, you probably know that video marketing works. If you want to start creating video content for your database, it’s difficult to know where to start. That’s why today I want to go over what equipment I use to create high-quality videos.&nbsp;
 
-For my webcam, I use a Logitech HD C920 Webcam. You can find one on Amazon for about $79.99. These are much better than the stock cameras that come with your computer. Some of these make me scratch my head; why do companies bother attaching such low-quality cameras to their computers? **Don’t bother with these cheap cameras.** If you get this camera, you can have quality videos without breaking the bank.&nbsp;
+For my webcam, I use a Logitech HD C920 Webcam. You can find one on Amazon for about $79.99. These are much better than the stock cameras that come with your computer. Some of these make me scratch my head; why do companies bother attaching such low-quality cameras to their computers? **Don’t bother with these cheap cameras.** If you get this Logitech webcam, you can have quality videos without breaking the bank.&nbsp;
 
 My microphone is a Shure SM7B, which is $499.99 on Amazon. That may seem like a lot of money, but **this is the industry standard for radio and podcast hosts.** It has a dynamic range, so I can speak from a relaxed position or get really close for a radio-host vibe. Usually, I stay eight to 10 inches away so that I retain a warm feel without sounding echoey.&nbsp;
 
