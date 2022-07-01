@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'O’Shift: The Market’s Changing '
+title: 'Oh Shift! The Market’s Changing '
 date: 2022-06-29 00:00:00
 tags:
 excerpt: How you can have a successful real estate career in a changing market.
@@ -22,7 +22,7 @@ There’s been alarming news circulating lately. Interest rates are increasing, 
 
 **1\. Talk to more people.** Do whatever you can to reach out to a wider audience. Go to open houses, talk to other Realtors, visit your church and hand out business cards to let people know that you work as a real estate agent.
 
-**2\. Hold a broker open at your listings.** Invite as many Realtors as you can. These gatherings can be enjoyed with wine and cheese as you talk about how you can get through this changing market.
+**2\. Hold a broker open at your listings.** Invite as many Realtors as you can. You can enjoy wine and cheese as you talk about how you can get through this changing market.
 
 {% include pullquote.html %}
 
