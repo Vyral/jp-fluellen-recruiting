@@ -41,13 +41,18 @@ permalink: /join-our-team/
 
 <p>Let me be a little more specific about what my team has to offer:
 <ul class="indent">
-<li>Frequent training and coaching sessions in both group and individual settings</li>
+<li>Daily Huddle For motivation</li>
+<li>Weekly Accountability</li>
 <li>The ability to build a strong business through your sphere, leads, and prospecting</li>
-<li>A 12-week training program</li>
+<li>Online training program</li>
 <li>An abundance of leads</li>
-<li>No franchise fees</li>
+<li>No franchise fees, no monthly fees</li>
 <li>Access to our advanced CRM</li>
+<li>Access to our Advance lead generation and sphere of influence growth strategy</li>
+<li>Teach you how to build a large business to create generational wealth</li>
 </ul></p>
+
+<p>For more info on what ΓEA⅃ can offer you, check out: <a href="https://titanreteam.com/recruitment/" target="_blank">titanreteam.com</a>
 
 <p>By joining our brokerage, you’ll have a turnkey real estate business. You’ll be able to show up, unlock the door, and start doing business right away.</p>
 
