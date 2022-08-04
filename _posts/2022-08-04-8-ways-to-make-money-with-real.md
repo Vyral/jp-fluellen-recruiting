@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/earn-more-fluellen-yt.jpg
 youtube_code: ANFhJ-TgHyA
 ---
 {% include youtube.html %}
