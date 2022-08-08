@@ -41,4 +41,4 @@ There are lots of ways to make money in the real estate industry besides just he
 
 7:31 — Final thoughts
 
-If you’d like to learn more about these income options, visit [www.JoinReal.com](http://www.joinreal.com) or give me a call. I’d love to tell you about all the ways that you earn more money by joining our team. I hope to hear from you soon\!
+If you’d like to learn more about these income options, [click here](www.JoinReal.com ){: target="_blank" rel="noopener"} or give me a call. I’d love to tell you about all the ways that you can earn more money by joining our team. I hope to hear from you soon\!
