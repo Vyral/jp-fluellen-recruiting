@@ -17,7 +17,7 @@ youtube_code: Gul3CsMixqQ
 
 {% include excerpt.html %}
 
-Today, we're going to talk about two things that will help you get more return on investment on all of those leads that you're paying for.&nbsp;
+Today we're going to talk about two things that will help you get more return on investment on all of those leads that you're paying for.&nbsp;
 
 **How do you leave a really good voicemail?** There're a couple of things you need to think about first before even leaving that voicemail. You need to continue following up via text and email. That way, when your potential client is seeing missed calls on their phone and seeing emails from you, leave a voicemail at the end of the day on the first day that lead comes in.
 
