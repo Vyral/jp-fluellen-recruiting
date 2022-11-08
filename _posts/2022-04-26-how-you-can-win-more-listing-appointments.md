@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How You Can Win More Listing Appointments
-date: 2022-04-26 00:00:00
+title: Get Real Estate Listings Now
+date: 2022-11-08 00:00:00
 tags:
   - Real Estate
 excerpt: Three all too common mistakes that agents make at listing appointments.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/avoid-these-mistakes-yt.jpg
+youtube_alternate_image: /uploads/get-listings-now-fluellen-yt.jpg
 youtube_code: LO738wGnAXo
 ---
 {% include youtube.html %}
