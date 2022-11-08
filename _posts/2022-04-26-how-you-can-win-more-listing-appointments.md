@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/get-listings-now-fluellen-yt.jpg
-youtube_code: LO738wGnAXo
+youtube_code: eFiaV6JnJg8
 ---
 {% include youtube.html %}
 
