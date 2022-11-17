@@ -7,7 +7,7 @@ tags:
   - Reviews and Referrals
 excerpt: My advice to agents as we head toward an uncertain real estate market.
 enclosure:
-pullquote: 'PQ: Real estate always goes up no matter how the market is doing.'
+pullquote: Real estate always goes up no matter how the market is doing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
