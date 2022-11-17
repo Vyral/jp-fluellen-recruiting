@@ -26,7 +26,7 @@ Real estate always goes up no matter what the market's doing. Even when the mark
 
 {% include pullquote.html %}
 
-**If you want to learn how to cash flow those properties, we put on a great weekly mastermind called Invest Like a Titan.** It can help you get the most out of your real estate business. Simply click this link, so we can send you some information on how to not only learn from a titan but invest like one as well.
+**If you want to learn how to cash flow those properties, we put on a great weekly mastermind called Invest Like a Titan.** It can help you get the most out of your real estate business. **[Simply click this link](https://investliketitans.com/investing-masterclass){: target="_blank" rel="noopener"}**, so we can send you some information on how to not only learn from a titan but invest like one as well.
 
 I hope that eases your mind on the money that you’ll be making, not just on the deals you're closing right now, but also on all those future rental properties you're going to own and the cash flow you'll get every single month.&nbsp;
 
