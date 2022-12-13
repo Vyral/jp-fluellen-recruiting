@@ -21,7 +21,7 @@ youtube_code: 4ErNgrRkAP4
 
 As we move into 2023, what are you doing to ensure success in the new year? To help you get started in the right direction, I’m sharing three points to guarantee success if you do them correctly:&nbsp;
 
-**1\. Concentrate on your lead generation activities.** Are you focusing on online, physical mail, or in-person event strategies? What are you doing with your time? Are you going to be cold-calling and following up on leads? How are you going to keep your database full? There are many questions that you need to answer and hone in on.&nbsp;
+**1\. Concentrate on your lead generation activities.** Are you focusing on online, physical mail, or in-person event strategies? What are you doing with your time? Are you cold-calling and following up on leads? How are you going to keep your database full? There are many questions that you need to answer and hone in on.&nbsp;
 
 {% include pullquote.html %}
 
