@@ -9,9 +9,9 @@ enclosure:
 pullquote: Take action now to reap the rewards.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/fluellene-yt.jpg
+youtube_code: B-HTyjxWpZo
 ---
 {% include youtube.html %}
 
