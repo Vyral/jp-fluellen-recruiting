@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fluellen-rec-yt.jpg
+youtube_alternate_image: /uploads/fluellen-yt-2.jpg
 youtube_code: qQwTS3XZqqg
 ---
 {% include youtube.html %}
