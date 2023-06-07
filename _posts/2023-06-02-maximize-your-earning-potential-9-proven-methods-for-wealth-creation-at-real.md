@@ -11,7 +11,7 @@ pullquote: Let's explore how Real can help you build wealth and achieve your goa
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fluellen-rec-yt-1.jpg
+youtube_alternate_image: /uploads/fluellen-yt-1.png
 youtube_code: 681pihe38ac
 ---
 {% include youtube.html %}
