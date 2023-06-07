@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fluellen-rec-yt-1.jpg
-youtube_code: AwyXo2ZsJHQ
+youtube_code: 681pihe38ac
 ---
 {% include youtube.html %}
 
