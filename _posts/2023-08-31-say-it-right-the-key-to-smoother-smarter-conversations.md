@@ -12,7 +12,7 @@ pullquote: To enhance communication, let's reframe our language patterns.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/fluellen-2.jpg
 youtube_code: RIyCHVMgzRs
 ---
 {% include youtube.html %}
