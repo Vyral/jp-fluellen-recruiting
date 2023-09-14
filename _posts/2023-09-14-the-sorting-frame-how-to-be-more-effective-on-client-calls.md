@@ -30,6 +30,6 @@ Firstly, your scripts may not be as effective as you think. Secondly, you may be
 
 This applies to both incoming Zillow calls and cold calls resulting from your advertising efforts on platforms like Facebook. When someone reaches out, you can ask whether they're a buyer or a seller and whether they prefer properties in town or rural areas. **The goal is to enhance the efficiency of your communication rather than letting calls become lengthy conversations filled with irrelevant details.**
 
-While it's great to connect with clients on a personal level, it's often more efficient to gather such information after they're under contract. ** ** The initial phone call should focus on quickly determining their specific needs, such as whether they're looking for three-bedroom, two-bath homes or properties for individuals aged 55 and over. This approach streamlines the conversation and allows you to move towards arranging meetings more swiftly.
+While it's great to connect with clients on a personal level, it's often more efficient to gather such information after they're under contract. The initial phone call should focus on quickly determining their specific needs, such as whether they're looking for three-bedroom, two-bath homes or properties for individuals aged 55 and over. This approach streamlines the conversation and allows you to move towards arranging meetings more swiftly.
 
 Hopefully, you found this idea helpful. If you have any questions, don’t hesitate to call or email me, and make sure you stay tuned for the next two blog posts in this series!
