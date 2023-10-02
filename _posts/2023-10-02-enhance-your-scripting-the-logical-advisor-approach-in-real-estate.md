@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enhance Your Scripting: The Logical Advisor Approach in Real Estate'
-date:
+date: 2023-10-02 10:00:00
 tags:
   - Logical advisor
   - Framework
