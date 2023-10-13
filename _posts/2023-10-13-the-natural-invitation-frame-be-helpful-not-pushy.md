@@ -24,9 +24,9 @@ youtube_code: 9rbwDomWLAc
 
 Recently, I’ve been doing a series on a few “frames” you can use to guide your conversations with clients. Today, we're going to discuss the concept of the "Natural Invitation Frame." This strategy is incredibly valuable when working with your clients. Once you've had your conversation and clarified the details, you've positioned yourself as the trusted advisor.&nbsp;
 
-**The essence of this framework is to smoothly guide the conversation.** You can think of it as a conveyor belt, gently moving your clients toward the next steps. Begin by saying something like, "I believe our next steps should involve…" This way, you seamlessly transition the dialogue.
+**The essence of this framework is to guide the conversation smoothly.** You can think of it as a conveyor belt, gently moving your clients toward the next steps. Begin by saying something like, "I believe our next steps should involve…" This way, you seamlessly transition the dialogue.
 
-For instance, if you've learned that your client loves being surrounded by nature and is interested in rural properties, you might suggest, "I recommend that we explore options like X, Y, Z or consider a specific type of home in a particular area of town."
+For instance, if you've learned that your client loves being surrounded by nature and is interested in rural properties, you might suggest, "I recommend that we explore options like X, Y, Z, or consider a specific type of home in a particular area of town."
 
 **{% include pullquote.html %}**
 
